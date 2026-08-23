@@ -1,0 +1,20 @@
+[
+  {
+    "phone_number": "1234567890",
+    "password": "password123",
+    "expiry_date": "2030-12-31",
+    "name": "Active User 1"
+  },
+  {
+    "phone_number": "9876543210",
+    "password": "expiredpassword",
+    "expiry_date": "2024-01-01",
+    "name": "Expired User 1"
+  },
+  {
+    "phone_number": "701015204",
+    "password": "mypassword",
+    "expiry_date": "2026-08-23",
+    "name": "Today Expiry User"
+  }
+]
