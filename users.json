@@ -1,20 +1,19 @@
-[
-  {
-    "phone_number": "9787689159",
-    "password": "EMA200",
-    "expiry_date": "2026-09-22",
-    "name": "Ayyacamy"
-  },
-  {
-    "phone_number": "7010152043",
-    "password": "7010152043",
-    "expiry_date": "2030-08-23",
-    "name": "Mitran-admin"
-  },
-  {
-    "phone_number": "6374523621",
-    "password": "EMA200",
-    "expiry_date": "2026-08-30",
-    "name": "Venkat"
-  }
-]
+{
+  "users": [
+    {
+      "userId": 1,
+      "userName": "User1",
+      "accounts": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "userId": 2,
+      "userName": "User2",
+      "accounts": [7, 8, 9]
+    },
+    {
+      "userId": 3,
+      "userName": "User3",
+      "accounts": [10, 11, 12, 13]
+    }
+  ]
+}
