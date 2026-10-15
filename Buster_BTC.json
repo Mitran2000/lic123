@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "userName": "Mitran",
+      "accounts": [420718982,2,3, 5, 6]
+    },
+    {
+      "userId": 2,
+      "userName": "Kanish",
+      "accounts": [352564465, 352564442, 9]
+    },
+    {
+      "userId": 3,
+      "userName": "venkatesan",
+      "accounts": [322326924,266078834, 12, 13]
+    },
+    {
+      "userId": 4,
+      "userName": "Alwin",
+      "accounts": [3,411318032, 12, 13]
+    }
+  ]
+}
